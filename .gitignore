@@ -1,0 +1,4 @@
+# Output contains decompiled third-party code and app strings — never commit.
+carto-out/
+__pycache__/
+*.pyc
